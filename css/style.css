@@ -109,7 +109,8 @@
 .ps-plus{
     width: 100%;
 }
-.psplus-button{
+.psplus-button,
+.psnow-button{
     background-color: lightgray;
     color: rgb(63, 136, 247);
     border: none;
@@ -118,4 +119,13 @@
 .psplus-image{
     width: 100%;
     height: 100%;
+}
+.discount{
+    width: 100%;
+}
+.bg3-container{
+    background-color: rgb(21, 21, 88);
+}
+.psnow-button{
+    color: black;
 }
