@@ -1,0 +1,24 @@
+.banner{
+    height: 50px;
+    background-color: black;
+}
+.banner-logo{
+    height: 20px;
+}
+.sony-logo{
+    height: 100%;
+}
+.nav-button{
+    border-radius: 30px;
+    background-color: black;
+    color: white;
+}
+.nav-button:hover{
+    background-color: black;
+    color: white;
+}
+.lens-img{
+    height: 30px;
+    margin-left: 20px;
+}
+
