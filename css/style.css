@@ -52,3 +52,18 @@
     width: 100%;
     border-radius: 10px;
 }
+.text-blue{
+    color: rgb(68, 68, 248);
+}
+.console-title{
+    padding-top: 200px;
+}
+.text-grey{
+    color: rgb(172, 168, 168);
+}
+.ps5-buttoninfo{
+    border-radius: 20px;
+}
+.ps5-img{
+    width: 100%;
+}
