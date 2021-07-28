@@ -61,7 +61,8 @@
 .text-grey{
     color: rgb(172, 168, 168);
 }
-.ps5-buttoninfo{
+.ps5-buttoninfo,
+.ps4-buttoninfo{
     border-radius: 20px;
 }
 .ps5-img{
@@ -89,4 +90,16 @@
 }
 .filler-box3:hover{
     cursor: pointer;
+}
+.far,
+.fas{
+    font-size: 10px;
+    vertical-align: top;
+}
+.ps4-img{
+    width: 100%;
+}
+.ps4-buttoninfo{
+    display: block;
+    margin: 0 auto;
 }
