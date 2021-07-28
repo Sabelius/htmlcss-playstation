@@ -21,15 +21,32 @@
     height: 30px;
     margin-left: 20px;
 }
+.align-content-end{
+    height: 500px;
+}
 .jumbo-container{
-    height: 600px;
     background-image: url(../img/returnal-listing-thumb-01-ps5.jpg);
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    
 }
 .jumbo-button{
     background-color: orangered;
     border-color: orangered;
     border-radius: 30px;
+}
+.filler-box{
+    width: 150px;
+    border-radius: 10px;
+    border: 1px solid transparent;
+}
+.filler-box:hover{
+    border:1px solid blue;
+}
+.filler-subbox{
+    height: 100%;
+    overflow: hidden;
+}
+.play-img{
+    width: 100%;
+    border-radius: 10px;
 }
