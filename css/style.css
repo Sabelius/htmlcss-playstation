@@ -76,3 +76,17 @@
 .subbox-transparent:hover{
     opacity: 1.0;
 }
+.mainjumbo-container{
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+    background-size: cover;
+    background-position: center; 
+}
+.ittakestwo-logo{
+    height: 100px;
+}
+.bg-container{
+    background-color: rgb(24, 23, 23);
+}
+.filler-box3:hover{
+    cursor: pointer;
+}
