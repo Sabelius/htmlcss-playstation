@@ -21,13 +21,16 @@
     height: 30px;
     margin-left: 20px;
 }
-.align-content-end{
-    height: 500px;
+.jumbo-contain{
+    padding-top: 200px;
 }
 .jumbo-container{
-    background-image: url(../img/returnal-listing-thumb-01-ps5.jpg);
-    background-size: 100% 100%;
-    
+    background-image: url(../img/jumbo-bg.png);
+    background-size: cover;
+    background-position: center;  
+}
+.returnal-logo{
+    height: 50px;
 }
 .jumbo-button{
     background-color: orangered;
@@ -35,7 +38,6 @@
     border-radius: 30px;
 }
 .filler-box{
-    width: 150px;
     border-radius: 10px;
     border: 1px solid transparent;
 }
