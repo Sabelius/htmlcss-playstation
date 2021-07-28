@@ -67,3 +67,12 @@
 .ps5-img{
     width: 100%;
 }
+.filler-box2:hover{
+    border-bottom: 1px solid blue;
+}
+.subbox-transparent{
+    opacity: 0.6;
+}
+.subbox-transparent:hover{
+    opacity: 1.0;
+}
