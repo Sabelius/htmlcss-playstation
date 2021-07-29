@@ -56,9 +56,6 @@
 .text-blue{
     color: rgb(68, 68, 248);
 }
-.console-title{
-    padding-top: 200px;
-}
 .text-grey{
     color: rgb(172, 168, 168);
 }
@@ -84,8 +81,9 @@
 }
 .mainjumbo-container{
     background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+    background-repeat: no-repeat;
     background-size: cover;
-    background-position: center; 
+    background-position: center;
 }
 .ittakestwo-logo{
     height: 100px;
