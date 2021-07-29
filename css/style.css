@@ -12,6 +12,7 @@
     border-radius: 30px;
     background-color: black;
     color: white;
+    border-color: black;
 }
 .nav-button:hover{
     background-color: black;
@@ -65,7 +66,10 @@
 .ps4-buttoninfo{
     border-radius: 20px;
 }
-.ps5-img{
+.ps5-img,
+.ps4-img,
+.social-img,
+.discount{
     width: 100%;
 }
 .filler-box2:hover{
@@ -76,6 +80,7 @@
 }
 .subbox-transparent:hover{
     opacity: 1.0;
+    cursor: pointer;
 }
 .mainjumbo-container{
     background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
@@ -95,9 +100,6 @@
 .fas{
     font-size: 10px;
     vertical-align: top;
-}
-.ps4-img{
-    width: 100%;
 }
 .ps4-buttoninfo{
     display: block;
@@ -120,12 +122,36 @@
     width: 100%;
     height: 100%;
 }
-.discount{
-    width: 100%;
-}
 .bg3-container{
     background-color: rgb(21, 21, 88);
 }
 .psnow-button{
     color: black;
+}
+.bg4-container{
+    background-color: rgb(12, 12, 196);
+}
+.play-logo{
+   width: 20%;
+}
+.fa-globe{
+    vertical-align: middle;
+    font-size: 20px;
+}
+footer ul{
+    display: inline-block;
+    vertical-align: top;
+    list-style-type: none;
+}
+footer a{
+    text-decoration: none;
+}
+.sie-logo{
+    width: 20%;
+}
+.fa-copyright{
+    vertical-align: middle;
+}
+.a-text{
+    text-decoration: underline;
 }
