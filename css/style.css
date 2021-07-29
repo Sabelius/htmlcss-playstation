@@ -19,9 +19,33 @@
     color: white;
 }
 .dropdown-menu.dr-menu{
-    top: 0;
-    left: 5%;
-} 
+    top: 50px;
+    left: auto;
+}
+.dropdown-menu.dr-menu2{
+    top: 50px;
+    left: auto;
+}
+.dropdown-menu.dr-menu3{
+    top: 50px;
+    left: auto;
+}
+.dropdown-menu.dr-menu4{
+    top: 50px;
+    left: auto;
+}
+.dropdown-menu.dr-menu5{
+    top: 50px;
+    left: auto;
+}
+.dropdown-menu.dr-menu6{
+    top: 50px;
+    left: auto;
+}
+.dropdown-menu.dr-menu7{
+    top: 50px;
+    left: auto;
+}
 .lens-img{
     height: 30px;
     margin-left: 20px;
