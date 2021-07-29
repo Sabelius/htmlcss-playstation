@@ -18,6 +18,10 @@
     background-color: black;
     color: white;
 }
+.dropdown-menu.dr-menu{
+    top: 0;
+    left: 5%;
+} 
 .lens-img{
     height: 30px;
     margin-left: 20px;
