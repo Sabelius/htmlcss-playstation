@@ -18,31 +18,7 @@
     background-color: black;
     color: white;
 }
-.dropdown-menu.dr-menu{
-    top: 50px;
-    left: auto;
-}
-.dropdown-menu.dr-menu2{
-    top: 50px;
-    left: auto;
-}
-.dropdown-menu.dr-menu3{
-    top: 50px;
-    left: auto;
-}
-.dropdown-menu.dr-menu4{
-    top: 50px;
-    left: auto;
-}
-.dropdown-menu.dr-menu5{
-    top: 50px;
-    left: auto;
-}
-.dropdown-menu.dr-menu6{
-    top: 50px;
-    left: auto;
-}
-.dropdown-menu.dr-menu7{
+.nav-item .dr-menu{
     top: 50px;
     left: auto;
 }
@@ -163,8 +139,6 @@
     font-size: 20px;
 }
 footer ul{
-    display: inline-block;
-    vertical-align: top;
     list-style-type: none;
 }
 footer a{
